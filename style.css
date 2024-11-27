@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1220px;
+    margin: 0 auto;
+}
+.ota-qora{
+    
+    background-color: black;
+    margin: auto;
+    width: 700px;
+    height: 788px;
+   padding: 20px ;
+    
+    
+
+}
+h1{
+    color: purple;
+    text-align: center;
+    
+}
+.card{
+    width: 45px;
+    height: 45px;
+    background-color: rgb(251, 246, 251);
+    border-radius: 4px;
+}
+.qator{
+    display: flex;
+    gap: 8px;
+   background-color: ;
+   border: 5px solid purple;
+   padding: 4px;
+   margin: 20px 100px;
+   margin-bottom: 50px;
+}
+.qator2{
+    display: flex;
+    gap: 8px;
+   background-color: ;
+   border: 5px solid purple;
+   padding: 4px;
+   margin: 20px 100px;
+   justify-content: end;
+   margin-bottom: 50px;
+}
+.qator3{
+    display: flex;
+    gap: 8px;
+   background-color: ;
+   border: 5px solid purple;
+   padding: 4px;
+   margin: 20px 100px;
+   justify-content: center;
+   margin-bottom: 50px;
+}
+.qator4{
+    display: flex;
+    gap: 8px;
+   background-color: ;
+   border: 5px solid purple;
+   padding: 4px;
+   margin: 20px 100px;
+   justify-content: space-between;
+   margin-bottom: 50px;
+}
+.qator5{
+    display: flex;
+    gap: 8px;
+   background-color: ;
+   border: 5px solid purple;
+   padding: 4px;
+   margin: 20px 100px;
+   justify-content: space-around;
+   margin-bottom: 50px;
+}
+.qator6{
+    display: flex;
+    gap: 8px;
+   background-color: ;
+   border: 5px solid purple;
+   padding: 4px;
+   margin: 20px 100px;
+   justify-content: space-evenly;
+   margin-bottom: 50px;
+}
